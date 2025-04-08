@@ -19,3 +19,8 @@ The column means the following - <br />
 **tag_id :** unique identifier for each tag<br />
 **image_url :** link to the image posted on the platform<br />
 **username :** username chosen by the user<br />
+
+## Analysis and Insights
+1. Distribution of users post - Low posts > Zero posts > Medium posts > High posts
+![image](https://github.com/user-attachments/assets/264438cb-fb2e-43c0-a8a9-b26500fb9f81)
+
