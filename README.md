@@ -9,13 +9,13 @@ The data can be inserted imprted to SQL using the queries given in the below lin
 
 Running the queries will create 7 tables - users, photos, comments, likes, follows, tags and photo_tags.<br />
 The column means the following - <br />
-comments_id : unique identifier for each comment<br />
-comment_text : text content of a given comment<br />
-user_id : unique identifier for each user<br />
-photo_id : unique identifier for each photo<br />
-created_at : date of interaction in the form like, photos, tags<br />
-follower_id : user_id of the follower for a certain user<br />
-followee_id : user_id of followee for a certain user<br />
-tag_id : unique identifier for each tag<br />
-image_url : link to the image posted on the platform<br />
-username : username chosen by the user<br />
+**comments_id :** unique identifier for each comment<br />
+**comment_text :** text content of a given comment<br />
+**user_id :** unique identifier for each user<br />
+**photo_id :** unique identifier for each photo<br />
+**created_at :** date of interaction in the form like, photos, tags<br />
+**follower_id :** user_id of the follower for a certain user<br />
+**followee_id :** user_id of followee for a certain user<br />
+**tag_id :** unique identifier for each tag<br />
+**image_url :** link to the image posted on the platform<br />
+**username :** username chosen by the user<br />
